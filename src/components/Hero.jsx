@@ -52,7 +52,7 @@ const Hero = () => {
 
         {/* Resume*/}
         <motion.a
-        href="/Mithun_Kumar_HS_Java_FullStack_Developer_SpringBoot_React_AWS.docx"
+        href="/Portfolio-2.0/Mithun_Kumar_HS_Java_FullStack_Developer_SpringBoot_React_AWS.docx"
         target="_blank"
         rel="noopener noreferrer"
         initial={{ opacity: 0, y: 80 }}
