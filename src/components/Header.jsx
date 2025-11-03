@@ -185,7 +185,7 @@ const Header = () => {
             <a href="https://github.com/Mithunkumarhs" target="_blank" rel="noopener noreferrer">
               <FiGithub className="h-5 w-5 text-gray-300 hover:text-purple-400 transition-colors" />
             </a>
-            <a href="www.linkedin.com/in/mithun-kumar-hs" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.linkedin.com/in/mithun-kumar-hs" target="_blank" rel="noopener noreferrer">
               <FiLinkedin className="h-5 w-5 text-gray-300 hover:text-purple-400 transition-colors" />
             </a>
             <a href="mailto:mkhs202011@gmail.com" rel="noopener noreferrer">
